@@ -1,5 +1,5 @@
 # 关于氢冷
-[README](/profile/README.md) | [中文文档](/profile/README_zh.md)
+[English](/profile/README.md) | [简体中文](/profile/README_zh.md)
 
 ## 我们是?
 氢冷是一个专注与软件开发的组织

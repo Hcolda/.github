@@ -1,5 +1,5 @@
 # AboutMe
-[README](/profile/README.md) | [中文文档](/profile/README_zh.md)
+[English](/profile/README.md) | [简体中文](/profile/README_zh.md)
 
 ## Who we are?
 HCOLDA is a software development organization
