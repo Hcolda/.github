@@ -8,6 +8,8 @@
 [敬请期待]
 
 ## 联系我们
+### 联系
+email : team@hcolda.com
 ### 支持
 email : Support@hcolda.com
 ### 加入

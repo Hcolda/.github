@@ -8,6 +8,8 @@ HCOLDA is a software development organization
 [Waiting for development]
 
 ## Contact us
+### Contact
+email : team@hcolda.com
 ### Support
 email : Support@hcolda.com
 ### Join us
