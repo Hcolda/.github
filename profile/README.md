@@ -1,11 +1,11 @@
-# AboutMe
 [English](/profile/README.md) | [简体中文](/profile/README_zh.md)
 
-## Who we are?
-HCOLDA is a software development organization
+# Hcolda
+HCOLDA is a software development organization.
 
-## List of contents
-[Waiting for development]
+## List of repositories
+1. [QingLiaoServer](https://github.com/Hcolda/QingLiaoChatServer)
+2. [QingLiaoClient](https://github.com/Hcolda/QingLiaoChatClient)
 
 ## Contact us
 ### Contact
